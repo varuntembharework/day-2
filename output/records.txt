@@ -1,0 +1,20 @@
+Name: Rahul Sharma
+Marks: 85, 92, 76
+Average: 84.33
+Grade: B
+------------------------
+Name: Ananya Gupta
+Marks: 95, 88, 91
+Average: 91.33
+Grade: A
+------------------------
+Name: Sameer Khan
+Marks: 45, 55, 60
+Average: 53.33
+Grade: C
+------------------------
+Name: Priya Mehta
+Marks: 20, 30, 25
+Average: 25.00
+Grade: F
+------------------------
